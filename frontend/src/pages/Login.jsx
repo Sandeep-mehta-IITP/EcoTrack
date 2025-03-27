@@ -115,7 +115,7 @@ const Login = () => {
         password
       );
       const user = userCredential.user;
-      console.log("User Logged In:", user);
+      
 
       window.location.href = "/features";
 
