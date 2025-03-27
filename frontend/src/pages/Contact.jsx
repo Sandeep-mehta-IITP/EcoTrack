@@ -198,7 +198,7 @@ const Contact = () => {
                 <div>
                   <h3 className="text-lg font-semibold">Email Us</h3>
                   <p className="text-sm text-muted-foreground dark:text-gray-300">
-                    support@ecotrack.com
+                    ecotrack.service@gmail.com
                   </p>
                   <p className="text-sm text-muted-foreground dark:text-gray-300">
                     We respond within 24 hours!
@@ -210,7 +210,7 @@ const Contact = () => {
                 <div>
                   <h3 className="text-lg font-semibold">Call Us</h3>
                   <p className="text-sm text-muted-foreground dark:text-gray-300">
-                    +91 9460143008
+                    +91 7976712864
                   </p>
                   <p className="text-sm text-muted-foreground dark:text-gray-300">
                     Mon-Fri, 9 AM - 5 PM IST
@@ -222,11 +222,13 @@ const Contact = () => {
                 <div>
                   <h3 className="text-lg font-semibold">Visit Us</h3>
                   <p className="text-sm text-muted-foreground dark:text-gray-300">
-                    Indian Institute of Technology Patna, Bihta, Patna, Bihar
-                    801106, India
+                    Indian Institute of Technology Patna 
                   </p>
                   <p className="text-sm text-muted-foreground dark:text-gray-300">
-                    By appointment only
+                    Bihta, Patna 
+                  </p>
+                  <p className="text-sm text-muted-foreground dark:text-gray-300">
+                    Bihar 801106, India
                   </p>
                 </div>
               </div>
